@@ -1,7 +1,7 @@
 package com.example.rest;
 
 
-public class Employee {
+public class Employee { // class Employee
 
 	public Employee() {
 	}
